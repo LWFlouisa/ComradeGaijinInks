@@ -1,11 +1,8 @@
-title: Red Serpent Politics
+title: Red Serpent Inks
 author: LWFlouisa
 email: yjsybhvfn@tznvy.pbz
 description: > # this means to ignore newlines until "show_exerpts:"
-  Welcome to Red Serpent Politics. Here we discuss alternative leftism,
-  along with issues the mainstream left will not discuss, such as the
-  history of White Slavery, and the issues of the distorting lens of
-  intersectional regressive leftism.
+  Welcome to Red Serpent Inks, where I discuss personal things and my art process.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -18,7 +15,7 @@ minima:
   social_links:
     # twitter: FlouisaLW
     # github:  LWFlouisa
-    tumblr: https://redserpentpolitics.tumblr.com/
+    # tumblr: https://redserpentpolitics.tumblr.com/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
