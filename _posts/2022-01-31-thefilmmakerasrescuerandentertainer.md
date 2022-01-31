@@ -1,5 +1,5 @@
 ---
-title: “The Filmmaker, As Rescuer And Entertainer”
+title: “The Containment Man: A BD And Manga Fusion”
 author: SRWeaver
 tags: Collaboration French Japanese ArtTeams
 layout: post
