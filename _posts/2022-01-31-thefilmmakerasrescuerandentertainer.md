@@ -4,7 +4,7 @@ author: SRWeaver
 tags: Collaboration French Japanese ArtTeams
 layout: post
 ---
-<i>Author Note: This story would be partially written with French dialogue, and partially with Japanese dialogue. Border regions is where a modification of French that eventually gave birth to Fraponic, bared its initial fruit. The lettering is meant to flow like a vocaloid.</i>
+<i>Author Note: This story would be partially written with French dialogue, and partially with Japanese dialogue. Border regions is where a modification of French that eventually gave birth to Fraponic, bared its initial fruit. The lettering is meant to flow like a vocaloid. Name wise I may end up giving the man a French name, and the girl would have a French or German first name, and Japanese last name.</i>
 
 PAGE ONE: One man and one woman work as concept artists for a Franco-Japanese animation studio. The man, along with his best friend, frequently look for her knowing she can always be relied on to have a beautiful butt. But also know the cultural differences between her and them would make the relationship with her work with neither men, as she comes from French-America and them from Japanese-America.
 
