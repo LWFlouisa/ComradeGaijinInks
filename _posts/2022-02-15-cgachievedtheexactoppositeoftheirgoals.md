@@ -44,4 +44,26 @@ Hashtags unrelated to the movement may be used, may actually prove to be prefera
 [Advanced Dictionary](https://lwflouisa.github.io/FraponicDict)
 
 ## Art Tools
-Work in progress
+This section is about art tools. This movement encourages making your own art tools, but they must be within the technological capabilities of Joan Of Arc to August Renoir's time period.
+
+I found some links that will guide you in the general direction.
+
+How to make a paintbrush
+https://www.royalacademy.org.uk/article/family-how-to-make-your-own-paintbrush-send-access 
+
+https://www.wikihow.com/Make-a-Paintbrush 
+
+How to make a reed pen
+https://www.painters-online.co.uk/tips-techniques/ink/articles/how-to-make-and-use-your-own-reed-pen-with-jason-bowyer/ 
+
+https://www.domestika.org/en/blog/3066-how-to-make-a-reed-pen-for-calligraphy-in-5-min-tutorial 
+
+https://www.google.com/url?q=https://www.tandfonline.com/doi/pdf/10.1080/00119253.1943.10742141&sa=U&ved=2ahUKEwi9moPL84H2AhXyJEQIHWCFBJsQFnoECAgQAg&usg=AOvVaw0ze3G7U6BPUqNkIlAi6nhK 
+
+How to make india ink
+https://www.google.com/url?q=https://www.ehow.com/how_6590230_make-homemade-india-ink.html&sa=U&ved=2ahUKEwiJvJ6p9IH2AhUOJUQIHcM_DUkQFXoECAMQAg&usg=AOvVaw37qE72_Ub75iSiv5HH6hgg 
+
+https://www.google.com/url?q=https://ourpastimes.com/homemade-indian-ink-12399092.html&sa=U&ved=2ahUKEwiJvJ6p9IH2AhUOJUQIHcM_DUkQFnoECAgQAg&usg=AOvVaw1ZWBk8uZ53sZ7zO3WkOu9u
+
+## Inspirations
+Coming soon
