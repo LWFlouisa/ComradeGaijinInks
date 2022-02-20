@@ -1,5 +1,5 @@
 ---
-title: "An Alt-Left Manga Manifesto"
+title: "Quatrekoma Manifesto"
 author: SRWeaver
 tags: manifesto altleftism mangacreation
 layout: post
