@@ -4,9 +4,6 @@ author: SRWeaver
 tags: manifesto altleftism mangacreation
 layout: post
 ---
-Which brings me to a personal thing in Red Serpent Inks: [Woke idealogy is now coming after manga.](
-https://mangainlibraries.com/)
-
 ## Niyo sonite os Quatrekomos.
 We are the four frame novelists.
 
