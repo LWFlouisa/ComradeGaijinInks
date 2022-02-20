@@ -7,6 +7,9 @@ layout: post
 Which brings me to a personal thing in Red Serpent Inks: [Woke idealogy is now coming after manga.](
 https://mangainlibraries.com/)
 
+## Niyo sonite os Quatrekomos.
+We are the four frame novelists.
+
 ### INTRO
 Comicsgate achieved the exact opposite of their goals. That community also became overran with right-wing reactionaries, even if the original goal to combat queer washing in the comics industry. Evan Van Sciver already had the reputation for being somewhat of a bully in the industry anyway.
 
