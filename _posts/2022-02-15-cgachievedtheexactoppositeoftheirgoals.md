@@ -40,8 +40,11 @@ At present I have no plans on using hashtags because of the tendency to be hijac
 Hashtags unrelated to the movement may be used, may actually prove to be preferable over official categorization systems.
 
 ## Our Language
-[Conlang](https://lwflouisa.github.io/FraponicConlang)
-[Advanced Dictionary](https://lwflouisa.github.io/FraponicDict)
+Just to note: this is the O Raphael timeline language. The version for Uploaded Fairy is closer to French, with only the S being replaced with a Z. I'll be developed a several constructed langauge for that. The shift from French to Fraponic wasn't so much a sudden shift, but rather a slow change, with Personal Pronouns being the first change.
+
+[Conlang](https://lwflouisa.github.io/FraponicConlang)<br />
+[Advanced Dictionary](https://lwflouisa.github.io/FraponicDict)<br />
+[Fraponic Font](https://lwflouisa.github.io/FraponicFont/)
 
 ## Art Tools
 This section is about art tools. This movement encourages making your own art tools, but they must be within the technological capabilities of Joan Of Arc to August Renoir's time period.
