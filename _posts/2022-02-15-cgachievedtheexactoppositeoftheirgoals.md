@@ -42,7 +42,9 @@ Hashtags unrelated to the movement may be used, may actually prove to be prefera
 ## Our Language
 Just to note: this is the O Raphael timeline language. The version for Uploaded Fairy is closer to French, with only the S being replaced with a Z. I'll be developed a several constructed langauge for that. The shift from French to Fraponic wasn't so much a sudden shift, but rather a slow change, with Personal Pronouns being the first change.
 
-[Conlang](https://lwflouisa.github.io/FraponicConlang)<br />
+[Os Azusacos - Proto-Fraponic](https://lwflouisa.github.io/OsAzusacos/)
+[Future Fraponic](https://lwflouisa.github.io/FraponicConlang)<br />
+
 [Advanced Dictionary](https://lwflouisa.github.io/FraponicDict)<br />
 [Fraponic Font](https://lwflouisa.github.io/FraponicFont/)
 
