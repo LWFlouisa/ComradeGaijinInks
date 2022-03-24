@@ -1,5 +1,5 @@
 ---
-title: "Lost Between Worlds: A Review"
+title: Lost Between Worlds A Review
 author: SRWeaver
 tags: grimreaper bookreivew lostbetweenworlds
 layout: post
