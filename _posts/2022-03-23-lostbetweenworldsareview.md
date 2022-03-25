@@ -20,4 +20,4 @@ The main character is something akin to a female grim repear, with her primary m
 ## OVERALL
 If you'll looking for an oddly light hearted rendition about grim reapers, this is definitely a series to check out. In particularly I'm interested in finding out the story by the scyth.
 
-You can find lost behind worlds over at: https://twitter.com/Lostbetweenwor1
+You can find lost behind worlds over at: https://twitter.com/Lostbetweenwor1 
