@@ -19,3 +19,5 @@ And yet publishers that specialize specifically in graphic noveld do exist, and 
 Graphic Novels do not necessarily naturally split up into multiple installments, sometimes with sections that are of different lengths. So you would get issues that are either to short or to long.
 
 But Im not going to base what I do as a graphic novelist on standards expected by Pulp Fiction enthusiasts. Im a dystopian writer, and its my right to create these things.
+
+In my next post, Ill go into ways Im diverging from Comics and to a lesser extent graphic novels. Also I managed to finish my conlang font, so there is that to look forward to.
