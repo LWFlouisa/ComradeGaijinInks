@@ -1,5 +1,5 @@
 ---
-title: Vohunotarumaxisime
+title: Vohunotarumaxisime Or Voluntary Marxism
 author: SRWeaver
 tags: voluntaryism marxism
 layout: post
