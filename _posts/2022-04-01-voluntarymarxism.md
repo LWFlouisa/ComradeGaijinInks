@@ -1,5 +1,5 @@
 ---
-title: An Essay On Voluntary Marxism
+title: Vohunotarumaxisime
 author: SRWeaver
 tags: voluntaryism marxism
 layout: post
